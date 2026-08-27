@@ -1,0 +1,6 @@
+{
+  "name": "LinkQR — Link to QR Code Generator",
+  "description": "Generate high-quality, customizable QR codes from any link or URL instantly. Free, client-side, scannable, and exportable as PNG and SVG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
